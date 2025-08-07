@@ -1,0 +1,12 @@
+myenv/
+.venv/
+
+# Ignore Streamlit secrets
+.streamlit/secrets.toml
+.streamlit/
+
+# Bytecode
+__pycache__/
+
+# Environment variables
+.env
