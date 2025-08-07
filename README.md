@@ -29,8 +29,6 @@ UnstructuredURLLoader – Web content extraction
 Transformers – Token counting dependency
 
 ## Folder Structure
-Copy
-Edit
 📦summarizer/
  ┣ 📄app.py
  ┣ 📄requirements.txt
@@ -44,7 +42,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-🔑 Setting up Groq API Key
+Setting up Groq API Key
 Create a .streamlit/secrets.toml file in the root of your project:
 
 toml
@@ -53,7 +51,7 @@ Edit
 GROQ_API_KEY = "your-groq-api-key"
 Never expose your API key publicly!
 
-▶️ Run Locally
+## Run Locally
 bash
 Copy
 Edit
